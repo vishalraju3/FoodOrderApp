@@ -1,0 +1,5 @@
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.csproj.AssemblyReference.cache
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.AssemblyInfoInputs.cache
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.AssemblyInfo.cs
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.csproj.CoreCompileInputs.cache

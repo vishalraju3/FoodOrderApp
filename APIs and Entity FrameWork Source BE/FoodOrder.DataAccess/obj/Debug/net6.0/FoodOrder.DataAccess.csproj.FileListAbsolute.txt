@@ -1,0 +1,14 @@
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\bin\Debug\net6.0\FoodOrder.DataAccess.deps.json
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\bin\Debug\net6.0\FoodOrder.DataAccess.runtimeconfig.json
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\bin\Debug\net6.0\FoodOrder.DataAccess.dll
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\bin\Debug\net6.0\FoodOrder.DataAccess.pdb
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\FoodOrder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\FoodOrder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\FoodOrder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\FoodOrder.DataAccess.AssemblyInfo.cs
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\FoodOrder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\FoodOrder.DataAccess.dll
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\refint\FoodOrder.DataAccess.dll
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\FoodOrder.DataAccess.pdb
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\FoodOrder.DataAccess.genruntimeconfig.cache
+C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.DataAccess\obj\Debug\net6.0\ref\FoodOrder.DataAccess.dll

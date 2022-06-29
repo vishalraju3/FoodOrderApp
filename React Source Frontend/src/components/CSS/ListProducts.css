@@ -1,0 +1,43 @@
+
+      .container-fluid{
+        background-color: bisque;
+      }
+      #myform {
+        background-color: blanchedalmond;
+        padding: 10px;
+        padding-left: 15px;
+        border: black;
+
+        margin: 20px;
+        
+        border: ridge;
+        align-items: center;
+      }
+      #contact {
+        background-color: coral;
+
+        text-align: center;
+        text-decoration: none;
+      }
+      #cart {
+        align-items: center;
+      }
+      .second-section {
+        margin-top: 10px;
+      }
+      .first-section {
+        
+        margin-top: 30px;
+      }
+      #mytable{
+        border: ridge;
+        padding:30px;
+        margin: 20px;
+        margin-right: 40px;
+      }
+      #crudbtn{
+        margin-bottom: 10px;
+      }
+      #productadd{
+        margin: 10px;
+      }

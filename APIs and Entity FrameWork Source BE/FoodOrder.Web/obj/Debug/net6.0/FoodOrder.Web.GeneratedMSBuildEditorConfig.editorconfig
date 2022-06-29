@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FoodOrder.Web
+build_property.RootNamespace = FoodOrder.Web
+build_property.ProjectDir = C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Vishal Raju\OneDrive\Desktop\FoodOrderBE\FoodOrder.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ContactThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDb250YWN0VGhhbmtZb3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/C_OrderPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDX09yZGVyUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/DeleteProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/DeleteSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGVTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/Invalid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbnZhbGlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ListFeedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMaXN0RmVlZGJhY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ListOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMaXN0T3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ListPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMaXN0UGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/LoginView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpblZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ORDER.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxPUkRFUi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/OwnerHomepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxPd25lckhvbWVwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ProductAddSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQcm9kdWN0QWRkU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ProductView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQcm9kdWN0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxUaGFua1lvdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/User/UpdateSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGVTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vishal Raju/OneDrive/Desktop/FoodOrderBE/FoodOrder.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ravj4n303x

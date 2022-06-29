@@ -1,0 +1,379 @@
+﻿
+
+
+@*<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            position: relative;
+        }
+        img{
+            width: 100%;
+            height: 100%;
+            opacity: 1;
+        }
+        p{
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            text-align: center;
+            font-size: 40px;
+            color:ButtonShadow;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <img src="/Images/Home.jpg" alt="background">
+    <p>Welcome to Food Order<br />Application</p>
+    
+    </div>
+</body>
+</html>*@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  
+    <style>
+      html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color:teal;
+}
+.bg {
+  height: 600px;
+  background-image: url("/Images/Home2.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   
+}
+header {
+  width: 100vw;
+  background-color: aquamarine;
+}
+
+.FoodApp {
+  display: block;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+  font-size: 60px;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: orangered;
+}
+
+.search-box {
+  width: 30vw;
+  height: 60px;
+  background-color: white;
+  border: none;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+
+  padding-left: 20px;
+  outline: none;
+  font-weight: bold;
+  font-size: 10px;
+  margin-top: 5px;
+}
+.search-btn {
+  width: 130px;
+
+  background-color: lightcoral;
+  border: 2px;
+
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+  outline: none;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 5px;
+}
+.FoodApp {
+  background-image: url("/Images/logo.png");
+}
+#second-section {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.card {
+  width: 100%;
+  height: 200px;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px #ccc;
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+  margin-bottom: 10px;
+  text-align: justify;
+}
+.card:hover {
+  box-shadow: 1px 1px 10px #000;
+  cursor: pointer;
+}
+.card-bottom {
+  position: absolute;
+  background-color: white;
+  height: 50px;
+  width: 100%;
+  margin-top: 150px;
+}
+#register {
+  background-color: honeydew;
+  margin: 10px;
+}
+
+.container-fluid {
+  background-color: bisque;
+}
+#mysigninform {
+  background-color: blanchedalmond;
+  padding: 10px;
+  border: black;
+
+  margin: 20px;
+  border: ridge;
+  align-items: center;
+}
+#contact {
+  background-color: coral;
+
+  text-align: center;
+  text-decoration: none;
+}
+#cart {
+  align-items: center;
+}
+.second-section {
+  margin-top: 10px;
+}
+.first-section {
+  margin-top: 100px;
+}
+#mytable {
+  border: ridge;
+  padding: 30px;
+  margin: 20px;
+  margin-right: 40px;
+}
+.footer{
+  background:burlywood;
+  text-align: center;
+}
+
+.footer .share{
+  display: flex;
+  gap:1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  color: #fff;
+}
+
+.footer .credit{
+  padding:2.5rem 1rem;
+  color:#000;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+.footer .credit span{
+  color:var(--red);
+}
+.btn{
+  display: inline-block;
+  padding:.8rem 3rem;
+  border:.2rem solid var(--red);
+  color:var(--red);
+  cursor: pointer;
+  font-size: 1.7rem;
+  border-radius: .5rem;
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+  margin-top: 1rem;
+}
+.btn::before{
+  content: '';
+  position: absolute;
+  top:0; right: 0;
+  width:0%;
+  height:100%;
+  background:var(--red);
+  transition: .3s linear;
+  z-index: -1;
+}
+
+.btn:hover::before{
+  width:100%;
+  left: 0;
+}
+
+.btn:hover{
+  color:#fff;
+}
+
+
+
+
+
+
+
+    </style>
+    
+   
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+   
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FOODAPP</title>
+ 
+  </head>
+  <body>
+
+    <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"
+  ></script>
+
+    <div class="headerclass">
+      <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#">LOGO</a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                  <a
+                    id="register"
+                    class="nav-link active float-right"
+                    aria-current="page"
+                    href="/User/LoginView"
+                    >Login</a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a
+                    id="register"
+                    class="nav-link active float-right"
+                    aria-current="page"
+                    href="/User/Signup"
+                    >SignUp</a
+                  >
+                </li>
+  
+              
+                <li class="nav-item">
+                  <a
+                    id="register"
+                    class="nav-link active float-right"
+                    aria-current="page"
+                    href="/User/ContactUs"
+                    >Contact us</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </header>
+    <section class="bg-dark text-light p-5 text-center bg">
+      <div class="container">
+        
+        <div class="d-flex justify-content-center text-re header-flex">
+          <p class="FoodApp">Food Order App</p>
+        </div>
+        <div class="d-flex justify-content-center mt-4">
+          <input type="text" placeholder="Search" class="search-box" />
+          <button class="search-btn">Search</button>
+        </div>
+      </div>
+    </section>
+    <section id="second-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="card">
+              <img src="Images/chinese.jpg" />
+              <div class="card-bottom">
+                <a class="h4 m-0 mt-2 text-center nav-link" href="/User/LoginView">Chinese</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card">
+              <img src="/Images/burger.jpg" />
+              <div class="card-bottom">
+                <a class="h4 m-0 mt-2 text-center nav-link" href="/User/LoginView">
+                  Burgers and pizzas
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card">
+              <img src="/Images/maincourse.jpg" />
+              <div class="card-bottom">
+                <a class="h4 m-0 mt-2 text-center nav-link" href="/User/LoginView">Main course</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card">
+              <img src="/Images/dessert.jpg" />
+              <div class="card-bottom">
+                <a class="h4 m-0 mt-2 text-center nav-link" href="/User/LoginView">Desserts</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="footer" >
+      <div class="share">
+        <a href="#" class="btn">facebook</a>
+        <a href="#" class="btn">twitter</a>
+        <a href="#" class="btn">instagram</a>
+        <a href="#" class="btn">pinterest</a>
+        <a href="#" class="btn">linkedin</a>
+      </div>
+
+      <h1 class="credit">
+        all rights reserved!
+      </h1>
+    </section>
+
+   
+  </body>
+</html>
